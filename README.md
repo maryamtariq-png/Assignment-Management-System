@@ -14,5 +14,5 @@ A full featured backend API designed to streamline the management of courses, as
 ## How to Run
 1. Clone the repo.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Create a `.env` file (see `.env.example`).
+3. Create a `.env` file.
 4. Run the server: `uvicorn main:app --reload`
